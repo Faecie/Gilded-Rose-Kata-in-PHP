@@ -1,9 +1,5 @@
 # The Gilded Rose Kata - Variance01
 
-## Setup
-
-This repository includes the initial setup for this Kata, including the tests. It uses the phpunit.
-
 Your job is to:
 
 1. Refactor the monstrous code in the `GildedRose.php` class.
