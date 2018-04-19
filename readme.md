@@ -1,4 +1,4 @@
-# The Gilded Rose Kata
+# The Gilded Rose Kata - Variance 04
 
 Your job is to:
 
