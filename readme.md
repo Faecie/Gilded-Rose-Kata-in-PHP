@@ -1,6 +1,6 @@
 # The Gilded Rose Kata - Variance 03
 
-You have been provided with enough tests for testing all the differnt products but Conjures.
+You have been provided with enough tests for testing all the different products but Conjures.
 
 Your job is to:
 
