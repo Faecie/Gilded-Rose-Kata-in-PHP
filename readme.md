@@ -1,8 +1,5 @@
 # The Gilded Rose Kata
 
-## Setup
-You have been provided with enough tests for testing all the differnt products but Conjured.
-
 Your job is to:
 
 1. Create the required code on `GildedRose.php` class to meet the criteria below.
