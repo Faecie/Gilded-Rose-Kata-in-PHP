@@ -1,13 +1,12 @@
 # The Gilded Rose Kata
 
-## Setup
-You have been provided with enough tests for testing all the differnt products but Conjured.
+You have been provided with enough tests for testing all the differnt products but Conjures.
 
 Your job is to:
 
 1. Create the required code on `GildedRose.php` class to meet the criteria below.
 2. Add a new item type, "Conjured".
-3. Add tests for conjured
+3. Add tests for conjured or do manual testing.
 
 ## Rules
 
