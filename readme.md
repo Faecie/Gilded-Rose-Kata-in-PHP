@@ -1,8 +1,8 @@
-# The Gilded Rose Kata
+# The Gilded Rose Kata - Variance01
 
 ## Setup
 
-This repository includes the initial setup for this Kata, including the tests. It uses the phpunit. Review the tests, and you'll understand the basic syntax in less than a minute.
+This repository includes the initial setup for this Kata, including the tests. It uses the phpunit.
 
 Your job is to:
 
